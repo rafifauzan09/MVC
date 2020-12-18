@@ -1,0 +1,6 @@
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\promoMVC\obj\Debug\netcoreapp3.1\promoMVC.csprojAssemblyReference.cache
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\promoMVC\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\promoMVC\obj\Debug\netcoreapp3.1\Penawaran.g.cs
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\promoMVC\obj\Debug\netcoreapp3.1\App.g.cs
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\promoMVC\obj\Debug\netcoreapp3.1\promoMVC_MarkupCompile.cache
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\promoMVC\obj\Debug\netcoreapp3.1\promoMVC_MarkupCompile.lref
